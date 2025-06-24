@@ -1,2 +1,31 @@
-# 250622-ToDoApp2-Frontend
-To Do App — Frontend  Aplicación web de lista de tareas (To Do) desarrollada con React (Vite) para el frontend y Node.js + Express + Prisma + PostgreSQL para el backend. Permite agregar, listar y eliminar tareas. Perfecta para practicar Full Stack Web Development.
+# ✅ To Do App — Full Stack
+
+Esta es una **aplicación web de lista de tareas** (To Do) desarrollada con:
+
+- ⚛️ **Frontend:** React + Vite
+- 🟢 **Backend:** Node.js + Express + Prisma
+- 🐘 **Base de datos:** PostgreSQL
+
+## 🚀 Funcionalidades
+
+✅ Ver todas las tareas  
+✅ Agregar una nueva tarea  
+✅ Eliminar tareas existentes  
+✅ Conexión entre Frontend y Backend usando API REST  
+✅ Despliegue en Vercel (Frontend) y Railway o Render (Backend)
+
+---
+
+## ⚙️ Estructura del proyecto
+
+```plaintext
+250622-ToDoApp2/
+├── Backend/
+│   ├── index.js
+│   ├── package.json
+│   ├── prisma/
+│   ├── .env (no subir)
+├── frontend/
+│   ├── src/
+│   ├── package.json
+│   ├── vite.config.js
